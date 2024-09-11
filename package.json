@@ -1,6 +1,7 @@
 {
   "name": "nokia-counter",
   "version": "0.1.0",
+  "homepage": "https://raqib.me/nokia-counter/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
