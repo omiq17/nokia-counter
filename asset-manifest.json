@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d516265.css",
-    "main.js": "/static/js/main.7bca17a2.js",
-    "static/js/453.55190859.chunk.js": "/static/js/453.55190859.chunk.js",
-    "index.html": "/index.html",
-    "main.1d516265.css.map": "/static/css/main.1d516265.css.map",
-    "main.7bca17a2.js.map": "/static/js/main.7bca17a2.js.map",
-    "453.55190859.chunk.js.map": "/static/js/453.55190859.chunk.js.map"
+    "main.css": "/nokia-counter/static/css/main.1d516265.css",
+    "main.js": "/nokia-counter/static/js/main.d2d0a40d.js",
+    "static/js/453.55190859.chunk.js": "/nokia-counter/static/js/453.55190859.chunk.js",
+    "index.html": "/nokia-counter/index.html",
+    "main.1d516265.css.map": "/nokia-counter/static/css/main.1d516265.css.map",
+    "main.d2d0a40d.js.map": "/nokia-counter/static/js/main.d2d0a40d.js.map",
+    "453.55190859.chunk.js.map": "/nokia-counter/static/js/453.55190859.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d516265.css",
-    "static/js/main.7bca17a2.js"
+    "static/js/main.d2d0a40d.js"
   ]
 }
