@@ -29,7 +29,7 @@ const Counter: React.FC = () => {
     <div className='flex flex-col items-center justify-center flex-1 p-4'>
       <h1 className='text-2xl font-bold mb-4'>Counter App</h1>
       <p className='text-xl mb-4'>Current Count: {count}</p>
-      <div>
+      <div className='flex flex-col md:flex-row md:justify-between md:space-x-4 space-y-4 md:space-y-0 p-4'>
         <button
           onClick={() => onButtonClick("decrement")}
           className='bg-red-500 text-white px-4 py-2 rounded'
@@ -38,7 +38,7 @@ const Counter: React.FC = () => {
         </button>
         <button
           onClick={() => onButtonClick("increment")}
-          className='bg-blue-500 text-white px-4 py-2 rounded mr-2'
+          className='bg-blue-500 text-white px-4 py-2 rounded'
         >
           Increment
         </button>
